@@ -1,8 +1,8 @@
 function playVideo(type) {
     if (type === 'tralalero') {
-        window.location.href = "https://www.youtube.com/watch?v=R1PA-N6BCeM&pp=ygURdHJhbGFsZXJvIHRyYWxhbGE%3D" ;
+        window.location.href = "https://youtu.be/DroKjc7xvSc?si=dyhw1Sx2zppYnYiv" ;
     } else if (type === 'rickroll') {
-        window.location.href = "https://www.youtube.com/watch?v=PyoRdu-i0AQ&pp=ygUMcmlja3JvbGxlYWRv";
+        window.location.href = "https://youtu.be/UOuISWjawMI?si=uNp1jgI2HkKpN6SE";
     }
 }
 
